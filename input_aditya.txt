@@ -1,0 +1,1 @@
+This is aditya kumar CSE16U003 running WordCount program using Hadoop MapReduce. Hadoop is a software framework from Apache Software Foundation that is used to store and process Big Data.
