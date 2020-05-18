@@ -12,3 +12,6 @@ This is aditya kumar CSE16U003 running WordCount program using Hadoop MapReduce.
 ![input-commands](https://github.com/ak224001/Hadoop-wordcount-MapReduce-/blob/master/Images/input.png?raw=true)
 ## Output
 ![output](https://github.com/ak224001/Hadoop-wordcount-MapReduce-/blob/master/Images/output.png?raw=true)
+## Hadoop all running and completed programs
+![all_programs](https://github.com/ak224001/Hadoop-wordcount-MapReduce-/blob/master/Images/HadoopApplication.png?raw=true)
+
